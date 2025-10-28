@@ -1,2 +1,0 @@
-# htmldl
-htmldlwodekimasu
